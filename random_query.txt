@@ -1,0 +1,1 @@
+select articles.dpaId as dpaId, articles.dpaRessort as ressort, articles.text as text from articles, random_view where articles.dpaId != random_view.dpaId and articles.dpaRessort ="sp" order by random() limit 20

@@ -1,0 +1,20 @@
+# Data #
+*.db
+*.csv
+*.tsv
+
+# Folders #
+Design/*
+output/*
+puc/*
+__pycache__/*
+temp*
+
+.python-version
+
+# Credentials #
+credentials.py
+*apikey.py
+*token.py
+
+
