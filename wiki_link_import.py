@@ -1,3 +1,4 @@
+# This function returns the wikidata id for a wikipedia id, using the wikipedia api
 import urllib.parse
 import urllib.request
 import requests

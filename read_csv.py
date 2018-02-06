@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# This function converts the exported csv data from webanno into the database
+
 import csv
 import os
 import dataset

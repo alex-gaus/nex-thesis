@@ -1,3 +1,6 @@
+# This function calls the Google NER-api
+
+
 import requests
 import json
 import time

@@ -1,3 +1,5 @@
+# This function calls the dandelion NER-api
+
 from dandelion_apikey import token
 import json
 from dandelion import DataTXT

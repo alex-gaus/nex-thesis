@@ -1,4 +1,5 @@
 #! /usr/bin/env python
+# This function uses an internal api of the german news agency to download newswire texts
 
 from neofonie import show, query
 import json

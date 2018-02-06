@@ -1,3 +1,5 @@
+# this function calls the functions for the api of the tool and writes the results in the data base
+
 import json
 # from check_file import check_file
 #from call_txtwerk import txtwerk

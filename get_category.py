@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-import urllib.parse
+# This function uses the wikidata sparql query to define the category (Per, Org, Loc, Oth) of an entity
+
 import urllib.request
 import requests
 import xml

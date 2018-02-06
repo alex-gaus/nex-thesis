@@ -1,3 +1,6 @@
+# This function calls the txtwerk NER-api
+
+
 import requests
 from txt_werk_apikey import txt_werk
 from joblib import Memory

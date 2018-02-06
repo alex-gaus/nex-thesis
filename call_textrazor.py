@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 # -*- encoding: utf-8 -*-
+
+# This function calls the textrazor NER-api
+
 from textrazor import TextRazorAnalysisException
 import textrazor as textrazor_function
 from textrazor_apikey import api_key

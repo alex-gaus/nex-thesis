@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# This function calls the Microsoft NER-api
+
 import requests
 from microsoft_apikey import key
 from wiki_link_name import wiki_query
