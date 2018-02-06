@@ -1,3 +1,4 @@
+# This function takes the texts from the database and saves it as a .txt file. Like this the texts can be uploaded to webanno
 import dataset
 db='sqlite:///articles.db'
 database = dataset.connect(db)
