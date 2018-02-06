@@ -1,3 +1,5 @@
+# This function calls the ambiverse NER-api
+
 import requests
 import json
 from ambiverse_apikey import client_id, client_secret
