@@ -10,7 +10,7 @@ puc/*
 __pycache__/*
 temp*
 
-.python-version
+random_query.txt
 
 # Credentials #
 credentials.py
